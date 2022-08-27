@@ -2,24 +2,24 @@
     "type": "crafting_shaped",
     "pattern":
     [
-        "EGE",
-        "GGG",
-        " G "
+        "SSS",
+        "SES",
+        "SSS"
     ],
     "key":
     {
+        "S":
+        {
+            "item": "minecraft:wheat_seed"
+        },
         "E":
         {
-            "item": "minecraft:emerald"
-        },
-        "G":
-        {
-            "item": "minecraft:gold_ingot"
+            "item": "minecraft:egg"
         }
     },
     "result":
     {
-        "item": "minecraft:egg"
+        "item": "minecraft:chicken_spawn_egg"
     }
 
 }
