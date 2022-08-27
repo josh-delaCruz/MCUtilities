@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+        "   ",
+        "GI ",
+        "   "
+    ],
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:item_frame"
+        },
+        "G":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:knowledge_book"
+    }
+
+}
