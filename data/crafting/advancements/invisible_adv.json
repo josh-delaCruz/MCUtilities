@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:invisible_item_frame"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crafting:give_invisible_item_frame"
+    }
+}

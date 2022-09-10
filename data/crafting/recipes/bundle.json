@@ -1,0 +1,31 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+        "SLS",
+        "L L",
+        "LLL"
+    ],
+    "key":
+    {
+        "L":
+        [
+            {
+                "item": "minecraft:leather"
+            },
+            {
+                "item": "minecraft:rabbit_hide"
+            }
+        ],
+        "S":
+        {
+            "item": "minecraft:string"
+        }
+       
+    },
+    "result":
+    {
+        "item": "minecraft:bundle"
+    }
+
+}

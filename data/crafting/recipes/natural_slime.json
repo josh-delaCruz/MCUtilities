@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern":
+    [
+        " S ",
+        " C ",
+        " W "
+    ],
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:bone_meal"
+        },
+        "C":
+        {
+            "item": "minecraft:cactus"
+        },
+        "W":
+        {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:slime_ball",
+        "count": 1
+    }
+
+}
